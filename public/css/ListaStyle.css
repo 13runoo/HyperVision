@@ -1,0 +1,126 @@
+
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+}
+h1 {
+    text-align: center;
+    margin-top: 20px;
+    color: #333;
+}
+.search-bar {
+    text-align: center;
+    padding: 10px;
+    background-color: #6933c6;
+}
+.search-input {
+    width: 70%;
+    padding: 5px;
+}
+.placasdevideo {
+    background-color: #ffffff;
+    border: 1px solid #d4c7c7;
+    border-radius: 5px;
+    padding: 20px;
+    margin: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+.placasdevideo h3 {
+    color:#6b63fff1;
+}
+.placasdevideo p {
+    margin: 5px 0;
+}
+.placasdevideo a {
+    display: block;
+    text-align: center;
+    margin-top: 10px;
+    color: #fff;
+    text-decoration: none;
+}
+.chat-box {
+    display: none;
+
+
+}
+
+div > img {
+  max-height: 400px;
+   
+}
+
+.editar-button {
+    display: flex;
+    align-items: center;
+}
+
+.editar-button button {
+    border: none;
+    background-color: #fff;
+    padding: 0.4rem 1rem;
+    border-radius: 5px;
+    cursor: pointer;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.editar-button button:hover {
+    background-color: #6b63fff1;
+}
+
+.editar-button button a {
+    text-decoration: none;
+    font-weight: 500;
+    color: #000;
+}
+
+.login-button {
+    display: flex;
+    align-items: center;
+}
+
+.login-button button {
+    border: none;
+    background-color: #fff;
+    padding: 0.4rem 1rem;
+    border-radius: 5px;
+    cursor: pointer;
+    text-align: center;
+    margin-top: 20px;
+   
+}
+
+.login-button button:hover {
+    background-color: #6b63fff1;
+}
+
+.login-button button a {
+    text-decoration: none;
+    font-weight: 500;
+    color: #000;
+}
+
+
+.preco {
+
+    color: #6933c6;
+    font-size: 30px;
+}
+
+
+
+.comprar-button {
+    display: center;
+    margin: 10px 0;
+    padding: 10px 20px;
+    background-color: #6933c6;
+    color: #fff;
+    text-decoration: none;
+    margin-bottom: 100px;
+}
+
+h3 {
+
+    font-size: 30px;
+}
